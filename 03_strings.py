@@ -1,0 +1,6 @@
+print("Hello world")
+print("We are learning python")
+print('Test for single qoutes')
+print("test for double qoutes")
+print('''test for triple qoutes''')
+print("what's up?")
